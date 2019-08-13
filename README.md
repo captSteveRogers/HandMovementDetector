@@ -14,3 +14,6 @@ After activating environment from the anaconda prompt, do the following:
   
 When the dependency is installed, 
   > python detector.py
+  
+  
+  ###### inspiration : akshaybahadur21
